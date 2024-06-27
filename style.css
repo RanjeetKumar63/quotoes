@@ -26,6 +26,8 @@ body{
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin: 9rem;
+  overflow: hidden;
   
   
 }
