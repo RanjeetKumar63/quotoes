@@ -19,6 +19,7 @@ body{
 }
 
 .wrapper{
+  overflow-x: hidden;
   position: relative;
   width: 450px;
   height: 450px;
