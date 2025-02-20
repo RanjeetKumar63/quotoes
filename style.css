@@ -20,8 +20,8 @@ body{
 
 .wrapper{
   position: relative;
-  width: 600px;
-  height: 400px;
+  width: 450px;
+  height: 450px;
   background-image: linear-gradient( rgba(172, 131, 193, 0.765), rgba(237, 238, 232, 0.991));
   border-radius: 20px;
   display: flex;
