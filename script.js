@@ -6,9 +6,9 @@ const noBtn = document.querySelector(".no-btn");
 const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
-yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yes :)   love you sri 😘";
-});
+// yesBtn.addEventListener("click", () => {
+//   question.innerHTML = "Thanks Ranjeet :)   love you sri 😘";
+// });
 
 noBtn.addEventListener("mouseover", () => {
   const i =
