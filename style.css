@@ -15,7 +15,7 @@ body{
   /* background: #7d2ae8; */
  
   background: #170f0fb9;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .wrapper{
